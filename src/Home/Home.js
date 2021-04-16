@@ -2,7 +2,6 @@ import classes from "./Home.module.css";
 import callof from "../image/callof.jpeg"
 import dota from "../image/dota.jpg"
 import protatype from "../image/prototype.jpg"
-import { useState } from "react";
 
 const Home = () => {
     return ( <div className={classes.Home}>
