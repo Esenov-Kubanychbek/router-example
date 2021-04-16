@@ -8,13 +8,13 @@ const Home = () => {
         <h1>Games</h1>
         <div className={classes.container}>
             <div className={classes.callof}>
-                <img src={callof}/>
+                <img alt="callof" src={callof}/>
             </div>
             <div className={classes.dota}>
-                <img src={dota}/> 
+                <img alt="dota" src={dota}/> 
             </div>
             <div className={classes.protatype}>
-                <img src={protatype}/>
+                <img alt="protatype" src={protatype}/>
             </div>
         </div>
 
