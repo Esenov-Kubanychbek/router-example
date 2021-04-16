@@ -1,0 +1,21 @@
+.Home {
+    text-align: center;
+    
+}
+.Home p{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.container{
+    display: flex;
+}
+.container div{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(3, 70, 31);
+    margin: 10px;
+}
+.container div img{
+    width: 100px;
+    padding: 10px;
+}
