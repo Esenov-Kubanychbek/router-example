@@ -16,7 +16,7 @@ function App() {
     <div className="App">
      <div className="App1" >
      <div className="app" >
-       
+       <h2>PC Games</h2>
        <Link to="/">Home</Link>
         <Link to="/about">About</Link>
        <Link to="/contakts">Contakts</Link>
